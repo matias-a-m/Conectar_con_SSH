@@ -162,6 +162,6 @@ Asegúrate de usar la URL SSH para conectar el repositorio remoto.
 Envía un cambio de prueba para verificar que todo funcione correctamente:
 
     ```bash
-git push -u origin main
+    git push -u origin main
  
     ```
